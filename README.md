@@ -1,4 +1,9 @@
-# Klasifikasi-Ginjal-Kronis
+# Klasifikasi-Ginjal-Kronis Menggunakan Decision Tree
+
+KELOMPOK 7 :
+Dede Masita (1214500007)
+Nadilla Andhara Putri (121450003)
+
 link dataset : https://www.kaggle.com/datasets/mansoordaku/ckdisease/data 
 
 Berikut penjelasan singkat pengertian untuk setiap fitur/kolom dalam dataset:
